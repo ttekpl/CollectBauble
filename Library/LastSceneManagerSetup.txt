@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/xdd.unity
+- path: Assets/Scenes/xdd.unity
   isLoaded: 1
   isActive: 1
